@@ -1,4 +1,4 @@
-`rustc` bug reproduction.
+`rustc` bug reproduction, filed as [rust issue #102603](https://github.com/rust-lang/rust/issues/102603).
 
 To trigger run:
 
